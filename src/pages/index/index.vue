@@ -33,6 +33,7 @@ function clean() {
   box-sizing: border-box
   min-height: 100vh
   background: #000
+  overflow: hidden
   .head
     width: 100%
     position: fixed
